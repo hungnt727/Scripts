@@ -3,8 +3,8 @@ import pandas as pd
 import pandas_ta as ta
 
 exchange = ccxt.binance()
-symbol = 'BTC/USDT'
-timeframe = '1d'
+symbol = 'APEUSDT'
+timeframe = '1h'
 
 try:
     print(f"Fetching data for {symbol} {timeframe}...")
