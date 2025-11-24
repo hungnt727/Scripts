@@ -1,0 +1,14 @@
+Top 10 Average 5m Candle Width (Last 240h)
+==========================================
+Rank  Symbol          Avg Width (%)  
+-----------------------------------
+1     NIGHT/USDT      3.6090%
+2     STABLE/USDT     2.0846%
+3     LUNC/USDT       1.2028%
+4     H/USDT          1.0467%
+5     LUNA/USDT       0.9253%
+6     MON/USDT        0.7785%
+7     MERL/USDT       0.7687%
+8     ZIG/USDT        0.7659%
+9     CORE/USDT       0.6881%
+10    WEMIX/USDT      0.6485%
