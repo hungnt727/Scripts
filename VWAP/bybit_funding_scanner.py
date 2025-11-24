@@ -6,7 +6,7 @@ import asyncio
 # --- CẤU HÌNH ---
 TELEGRAM_BOT_TOKEN = '6468221540:AAEYfM-Zv7ETzXrRfIyMee7ouDCIesGc9pg'
 TELEGRAM_CHAT_ID = '-4090797883'
-SCAN_INTERVAL = 60  # Quét mỗi 60 giây
+SCAN_INTERVAL = 900  # Quét mỗi 60 giây
 
 # Khởi tạo sàn Bybit
 exchange = ccxt.bybit()
