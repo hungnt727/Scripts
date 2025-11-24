@@ -1,0 +1,4646 @@
+2026-01-15 21:35:44.467722 - 🔻 TÍN HIỆU EMA RSI SHORT: ENA/USDT (15m)
+Thời gian: 2026-01-15 21:30:00
+Cách đây: 0 nến
+Giá: 0.2314
+EMA RSI 10: 48.73 | EMA RSI 20: 49.85 | EMA RSI 30: 49.23
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:35:57.978004 - 🔻 TÍN HIỆU EMA RSI SHORT: ATOM/USDT (15m)
+Thời gian: 2026-01-15 21:15:00
+Cách đây: 1 nến
+Giá: 2.5070
+EMA RSI 10: 42.89 | EMA RSI 20: 43.38 | EMA RSI 30: 43.05
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:36:08.904367 - 🔻 TÍN HIỆU EMA RSI SHORT: VET/USDT (15m)
+Thời gian: 2026-01-15 21:30:00
+Cách đây: 0 nến
+Giá: 0.0120
+EMA RSI 10: 52.01 | EMA RSI 20: 53.03 | EMA RSI 30: 52.13
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:36:37.746048 - 🔻 TÍN HIỆU EMA RSI SHORT: TIA/USDT (15m)
+Thời gian: 2026-01-15 21:30:00
+Cách đây: 0 nến
+Giá: 0.5766
+EMA RSI 10: 46.33 | EMA RSI 20: 46.64 | EMA RSI 30: 46.34
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:36:58.306603 - 🔻 TÍN HIỆU EMA RSI SHORT: CFX/USDT (15m)
+Thời gian: 2026-01-15 21:30:00
+Cách đây: 0 nến
+Giá: 0.0773
+EMA RSI 10: 50.86 | EMA RSI 20: 52.46 | EMA RSI 30: 52.02
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:37:05.478520 - 🔻 TÍN HIỆU EMA RSI SHORT: PYTH/USDT (15m)
+Thời gian: 2026-01-15 21:15:00
+Cách đây: 1 nến
+Giá: 0.0676
+EMA RSI 10: 45.62 | EMA RSI 20: 46.07 | EMA RSI 30: 45.75
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:37:12.398791 - 🔻 TÍN HIỆU EMA RSI SHORT: ZK/USDT (15m)
+Thời gian: 2026-01-15 21:15:00
+Cách đây: 1 nến
+Giá: 0.0350
+EMA RSI 10: 48.07 | EMA RSI 20: 48.74 | EMA RSI 30: 48.28
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:37:27.908203 - 🔻 TÍN HIỆU EMA RSI SHORT: A/USDT (15m)
+Thời gian: 2026-01-15 21:30:00
+Cách đây: 0 nến
+Giá: 0.1754
+EMA RSI 10: 46.61 | EMA RSI 20: 47.63 | EMA RSI 30: 47.30
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:37:35.110548 - 🔻 TÍN HIỆU EMA RSI SHORT: AR/USDT (15m)
+Thời gian: 2026-01-15 21:30:00
+Cách đây: 0 nến
+Giá: 3.9700
+EMA RSI 10: 47.73 | EMA RSI 20: 48.91 | EMA RSI 30: 48.88
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:38:00.772688 - 🔻 TÍN HIỆU EMA RSI SHORT: AXS/USDT (15m)
+Thời gian: 2026-01-15 21:15:00
+Cách đây: 1 nến
+Giá: 1.1050
+EMA RSI 10: 41.07 | EMA RSI 20: 41.86 | EMA RSI 30: 41.60
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:38:07.927420 - 🔻 TÍN HIỆU EMA RSI SHORT: RSR/USDT (15m)
+Thời gian: 2026-01-15 21:15:00
+Cách đây: 1 nến
+Giá: 0.0028
+EMA RSI 10: 43.13 | EMA RSI 20: 43.70 | EMA RSI 30: 43.70
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:38:14.774598 - 🔻 TÍN HIỆU EMA RSI SHORT: APE/USDT (15m)
+Thời gian: 2026-01-15 21:30:00
+Cách đây: 0 nến
+Giá: 0.2220
+EMA RSI 10: 53.59 | EMA RSI 20: 54.63 | EMA RSI 30: 53.89
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:38:45.738974 - 🔻 TÍN HIỆU EMA RSI SHORT: XVG/USDT (15m)
+Thời gian: 2026-01-15 21:30:00
+Cách đây: 0 nến
+Giá: 0.0071
+EMA RSI 10: 46.57 | EMA RSI 20: 46.70 | EMA RSI 30: 46.77
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:38:55.843957 - 🔻 TÍN HIỆU EMA RSI SHORT: AWE/USDT (15m)
+Thời gian: 2026-01-15 21:30:00
+Cách đây: 0 nến
+Giá: 0.0560
+EMA RSI 10: 46.01 | EMA RSI 20: 47.70 | EMA RSI 30: 47.40
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:39:44.361558 - 🔻 TÍN HIỆU EMA RSI SHORT: TON/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 0 nến
+Giá: 1.7570
+EMA RSI 10: 51.92 | EMA RSI 20: 51.97 | EMA RSI 30: 52.12
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:39:57.183386 - 🔻 TÍN HIỆU EMA RSI SHORT: NEAR/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 0 nến
+Giá: 1.7750
+EMA RSI 10: 46.22 | EMA RSI 20: 46.37 | EMA RSI 30: 47.97
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:40:20.635074 - 🚀 TÍN HIỆU EMA RSI LONG: PUMP/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 0 nến
+Giá: 0.0029
+EMA RSI 10: 55.87 | EMA RSI 20: 55.00 | EMA RSI 30: 55.46
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:40:57.387235 - 🚀 TÍN HIỆU EMA RSI LONG: 2Z/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 0 nến
+Giá: 0.1333
+EMA RSI 10: 60.35 | EMA RSI 20: 58.91 | EMA RSI 30: 59.64
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:41:12.939710 - 🔻 TÍN HIỆU EMA RSI SHORT: CFX/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 0 nến
+Giá: 0.0772
+EMA RSI 10: 47.57 | EMA RSI 20: 48.12 | EMA RSI 30: 49.37
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:41:26.611206 - 🚀 TÍN HIỆU EMA RSI LONG: JST/USDT (1h)
+Thời gian: 2026-01-15 20:00:00
+Cách đây: 1 nến
+Giá: 0.0407
+EMA RSI 10: 51.74 | EMA RSI 20: 51.35 | EMA RSI 30: 50.97
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:42:26.916733 - 🔻 TÍN HIỆU EMA RSI SHORT: FORM/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 0 nến
+Giá: 0.3794
+EMA RSI 10: 49.25 | EMA RSI 20: 49.81 | EMA RSI 30: 50.23
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:43:08.750096 - 🔻 TÍN HIỆU EMA RSI SHORT: ID/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 0 nến
+Giá: 0.0724
+EMA RSI 10: 37.64 | EMA RSI 20: 37.92 | EMA RSI 30: 39.10
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:44:29.323386 - 🚀 TÍN HIỆU EMA RSI LONG: XTZ/USDT (4h)
+Thời gian: 2026-01-15 15:00:00
+Cách đây: 1 nến
+Giá: 0.5878
+EMA RSI 10: 53.54 | EMA RSI 20: 53.12 | EMA RSI 30: 53.44
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:45:01.588845 - 🔻 TÍN HIỆU EMA RSI SHORT: SUN/USDT (4h)
+Thời gian: 2026-01-15 15:00:00
+Cách đây: 1 nến
+Giá: 0.0208
+EMA RSI 10: 65.52 | EMA RSI 20: 67.18 | EMA RSI 30: 66.70
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:45:48.133746 - 🚀 TÍN HIỆU EMA RSI LONG: BARD/USDT (4h)
+Thời gian: 2026-01-15 15:00:00
+Cách đây: 1 nến
+Giá: 0.9035
+EMA RSI 10: 50.50 | EMA RSI 20: 49.33 | EMA RSI 30: 48.93
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:45:52.886261 - 🚀 TÍN HIỆU EMA RSI LONG: SFP/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 0 nến
+Giá: 0.3748
+EMA RSI 10: 58.71 | EMA RSI 20: 58.40 | EMA RSI 30: 58.15
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:46:42.407871 - 🔻 TÍN HIỆU EMA RSI SHORT: AWE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 0 nến
+Giá: 0.0555
+EMA RSI 10: 48.71 | EMA RSI 20: 48.98 | EMA RSI 30: 49.01
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:47:13.093440 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 21:47:29.317002 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:20:53.775952 - 🔻 TÍN HIỆU EMA RSI SHORT: XRP/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 2.0999
+EMA RSI 10: 49.61 | EMA RSI 20: 51.37 | EMA RSI 30: 50.72
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:20:57.618293 - 🔻 TÍN HIỆU EMA RSI SHORT: BNB/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 938.0400
+EMA RSI 10: 52.28 | EMA RSI 20: 53.10 | EMA RSI 30: 52.64
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:21:18.701433 - 🔻 TÍN HIỆU EMA RSI SHORT: HBAR/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 0.1208
+EMA RSI 10: 49.84 | EMA RSI 20: 50.60 | EMA RSI 30: 49.87
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:21:36.498690 - 🔻 TÍN HIỆU EMA RSI SHORT: ETC/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 12.9400
+EMA RSI 10: 47.85 | EMA RSI 20: 48.89 | EMA RSI 30: 48.52
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:21:53.039920 - 🔻 TÍN HIỆU EMA RSI SHORT: ALGO/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 0.1330
+EMA RSI 10: 47.08 | EMA RSI 20: 48.22 | EMA RSI 30: 47.56
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:22:04.302751 - 🔻 TÍN HIỆU EMA RSI SHORT: BONK/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 0.0000
+EMA RSI 10: 45.72 | EMA RSI 20: 46.51 | EMA RSI 30: 46.10
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:22:27.757796 - 🔻 TÍN HIỆU EMA RSI SHORT: INJ/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 5.3110
+EMA RSI 10: 45.55 | EMA RSI 20: 47.00 | EMA RSI 30: 46.32
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:22:39.573058 - 🚀 TÍN HIỆU EMA RSI LONG: TUSD/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 1.0001
+EMA RSI 10: 49.43 | EMA RSI 20: 49.11 | EMA RSI 30: 49.35
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:22:48.469346 - 🔻 TÍN HIỆU EMA RSI SHORT: STRK/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 0.0872
+EMA RSI 10: 50.54 | EMA RSI 20: 52.20 | EMA RSI 30: 51.48
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:23:20.785370 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (15m)
+Thời gian: 2026-01-15 22:15:00
+Cách đây: 0 nến
+Giá: 0.1569
+EMA RSI 10: 52.62 | EMA RSI 20: 55.16 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:23:32.915229 - 🔻 TÍN HIỆU EMA RSI SHORT: S/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 0.0841
+EMA RSI 10: 45.76 | EMA RSI 20: 46.50 | EMA RSI 30: 46.05
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:23:44.238514 - 🔻 TÍN HIỆU EMA RSI SHORT: EIGEN/USDT (15m)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 1 nến
+Giá: 0.4180
+EMA RSI 10: 46.50 | EMA RSI 20: 48.18 | EMA RSI 30: 47.57
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:25:40.880662 - 🔻 TÍN HIỆU EMA RSI SHORT: NEAR/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 1.7750
+EMA RSI 10: 46.22 | EMA RSI 20: 46.37 | EMA RSI 30: 47.97
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:26:04.206136 - 🚀 TÍN HIỆU EMA RSI LONG: PUMP/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 0.0029
+EMA RSI 10: 55.95 | EMA RSI 20: 55.04 | EMA RSI 30: 55.49
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:26:17.789348 - 🔻 TÍN HIỆU EMA RSI SHORT: OP/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 0.3491
+EMA RSI 10: 50.46 | EMA RSI 20: 51.20 | EMA RSI 30: 52.76
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:26:23.874171 - 🔻 TÍN HIỆU EMA RSI SHORT: NEXO/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 0.9680
+EMA RSI 10: 50.61 | EMA RSI 20: 50.94 | EMA RSI 30: 51.30
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:26:44.560121 - 🚀 TÍN HIỆU EMA RSI LONG: 2Z/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 0.1335
+EMA RSI 10: 60.43 | EMA RSI 20: 58.95 | EMA RSI 30: 59.67
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:27:00.652973 - 🔻 TÍN HIỆU EMA RSI SHORT: CFX/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 0.0772
+EMA RSI 10: 47.57 | EMA RSI 20: 48.12 | EMA RSI 30: 49.37
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:27:06.926240 - 🚀 TÍN HIỆU EMA RSI LONG: TWT/USDT (1h)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 0 nến
+Giá: 0.9320
+EMA RSI 10: 55.37 | EMA RSI 20: 54.55 | EMA RSI 30: 54.67
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:27:26.633822 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (1h)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 0 nến
+Giá: 0.1549
+EMA RSI 10: 45.44 | EMA RSI 20: 45.99 | EMA RSI 30: 47.04
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:27:42.786728 - 🔻 TÍN HIỆU EMA RSI SHORT: XEC/USDT (1h)
+Thời gian: 2026-01-15 22:00:00
+Cách đây: 0 nến
+Giá: 0.0000
+EMA RSI 10: 46.80 | EMA RSI 20: 47.41 | EMA RSI 30: 48.53
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:28:03.473389 - 🔻 TÍN HIỆU EMA RSI SHORT: 0G/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 0.8660
+EMA RSI 10: 48.03 | EMA RSI 20: 48.09 | EMA RSI 30: 48.86
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:28:12.501923 - 🔻 TÍN HIỆU EMA RSI SHORT: APE/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 0.2210
+EMA RSI 10: 48.76 | EMA RSI 20: 49.08 | EMA RSI 30: 50.31
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:28:18.751726 - 🚀 TÍN HIỆU EMA RSI LONG: KAITO/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 0.6879
+EMA RSI 10: 51.90 | EMA RSI 20: 51.22 | EMA RSI 30: 51.67
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:28:27.349290 - 🔻 TÍN HIỆU EMA RSI SHORT: FORM/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 0.3839
+EMA RSI 10: 49.83 | EMA RSI 20: 50.11 | EMA RSI 30: 50.44
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:29:10.678459 - 🔻 TÍN HIỆU EMA RSI SHORT: ID/USDT (1h)
+Thời gian: 2026-01-15 21:00:00
+Cách đây: 1 nến
+Giá: 0.0725
+EMA RSI 10: 37.75 | EMA RSI 20: 37.98 | EMA RSI 30: 39.14
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:30:32.275290 - 🚀 TÍN HIỆU EMA RSI LONG: XTZ/USDT (4h)
+Thời gian: 2026-01-15 15:00:00
+Cách đây: 1 nến
+Giá: 0.5878
+EMA RSI 10: 53.54 | EMA RSI 20: 53.12 | EMA RSI 30: 53.44
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:31:06.117983 - 🔻 TÍN HIỆU EMA RSI SHORT: SUN/USDT (4h)
+Thời gian: 2026-01-15 15:00:00
+Cách đây: 1 nến
+Giá: 0.0208
+EMA RSI 10: 65.52 | EMA RSI 20: 67.18 | EMA RSI 30: 66.70
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:31:54.095650 - 🚀 TÍN HIỆU EMA RSI LONG: BARD/USDT (4h)
+Thời gian: 2026-01-15 15:00:00
+Cách đây: 1 nến
+Giá: 0.9035
+EMA RSI 10: 50.50 | EMA RSI 20: 49.33 | EMA RSI 30: 48.93
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:31:59.051359 - 🚀 TÍN HIỆU EMA RSI LONG: SFP/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 0 nến
+Giá: 0.3773
+EMA RSI 10: 59.11 | EMA RSI 20: 58.61 | EMA RSI 30: 58.29
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:32:49.899585 - 🔻 TÍN HIỆU EMA RSI SHORT: AWE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 0 nến
+Giá: 0.0554
+EMA RSI 10: 48.59 | EMA RSI 20: 48.92 | EMA RSI 30: 48.97
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:33:19.367078 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 22:33:35.265841 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+Super Trend: Bearish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:01:33.493574 - 🔻 TÍN HIỆU EMA RSI SHORT: SOL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 143.4800
+EMA RSI 10: 58.81 | EMA RSI 20: 59.32 | EMA RSI 30: 58.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:01:50.194517 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 72.3600
+EMA RSI 10: 38.46 | EMA RSI 20: 38.83 | EMA RSI 30: 39.68
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:02:08.361108 - 🔻 TÍN HIỆU EMA RSI SHORT: NEAR/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.7460
+EMA RSI 10: 54.65 | EMA RSI 20: 55.49 | EMA RSI 30: 55.11
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:02:17.991762 - 🔻 TÍN HIỆU EMA RSI SHORT: WLD/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.5757
+EMA RSI 10: 51.60 | EMA RSI 20: 51.90 | EMA RSI 30: 51.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:02:23.948094 - 🔻 TÍN HIỆU EMA RSI SHORT: ONDO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3859
+EMA RSI 10: 45.13 | EMA RSI 20: 45.74 | EMA RSI 30: 45.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:02:29.884659 - 🔻 TÍN HIỆU EMA RSI SHORT: ALGO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.1319
+EMA RSI 10: 50.23 | EMA RSI 20: 50.93 | EMA RSI 30: 51.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:02:44.343107 - 🔻 TÍN HIỆU EMA RSI SHORT: PENGU/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0125
+EMA RSI 10: 53.84 | EMA RSI 20: 54.39 | EMA RSI 30: 54.32
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:03:00.162213 - 🔻 TÍN HIỆU EMA RSI SHORT: IMX/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2700
+EMA RSI 10: 52.98 | EMA RSI 20: 53.46 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:03:07.198490 - 🔻 TÍN HIỆU EMA RSI SHORT: INJ/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.2420
+EMA RSI 10: 53.21 | EMA RSI 20: 54.31 | EMA RSI 30: 54.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:03:15.477284 - 🔻 TÍN HIỆU EMA RSI SHORT: FLOKI/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0001
+EMA RSI 10: 49.10 | EMA RSI 20: 49.48 | EMA RSI 30: 49.41
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:03:38.314202 - 🔻 TÍN HIỆU EMA RSI SHORT: WIF/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3850
+EMA RSI 10: 53.80 | EMA RSI 20: 54.31 | EMA RSI 30: 53.95
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:03:43.206645 - 🔻 TÍN HIỆU EMA RSI SHORT: PYTH/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0658
+EMA RSI 10: 51.20 | EMA RSI 20: 52.06 | EMA RSI 30: 52.16
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:03:49.163779 - 🔻 TÍN HIỆU EMA RSI SHORT: PENDLE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 2.1350
+EMA RSI 10: 53.05 | EMA RSI 20: 54.16 | EMA RSI 30: 53.88
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:03:52.737835 - 🔻 TÍN HIỆU EMA RSI SHORT: GALA/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0071
+EMA RSI 10: 53.36 | EMA RSI 20: 53.85 | EMA RSI 30: 53.56
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:03:57.493172 - 🔻 TÍN HIỆU EMA RSI SHORT: RAY/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.1610
+EMA RSI 10: 52.61 | EMA RSI 20: 53.58 | EMA RSI 30: 54.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:04:19.151412 - 🔻 TÍN HIỆU EMA RSI SHORT: LUNC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0000
+EMA RSI 10: 49.18 | EMA RSI 20: 49.57 | EMA RSI 30: 49.59
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:04:22.694229 - 🔻 TÍN HIỆU EMA RSI SHORT: EIGEN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.4120
+EMA RSI 10: 52.91 | EMA RSI 20: 53.65 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:04:35.760359 - 🔻 TÍN HIỆU EMA RSI SHORT: W/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0368
+EMA RSI 10: 52.81 | EMA RSI 20: 53.38 | EMA RSI 30: 52.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:04:40.495662 - 🚀 TÍN HIỆU EMA RSI LONG: SFP/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3716
+EMA RSI 10: 58.12 | EMA RSI 20: 58.09 | EMA RSI 30: 57.94
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:05:03.554963 - 🔻 TÍN HIỆU EMA RSI SHORT: TFUEL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0197
+EMA RSI 10: 51.65 | EMA RSI 20: 51.73 | EMA RSI 30: 52.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:05:14.137091 - 🔻 TÍN HIỆU EMA RSI SHORT: TURBO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0018
+EMA RSI 10: 46.56 | EMA RSI 20: 47.44 | EMA RSI 30: 47.54
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:05:19.967095 - 🔻 TÍN HIỆU EMA RSI SHORT: MET/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2545
+EMA RSI 10: 48.04 | EMA RSI 20: 49.10 | EMA RSI 30: 48.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:05:25.835979 - 🔻 TÍN HIỆU EMA RSI SHORT: RVN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0075
+EMA RSI 10: 50.29 | EMA RSI 20: 51.15 | EMA RSI 30: 51.23
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:05:30.708002 - 🔻 TÍN HIỆU EMA RSI SHORT: T/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0099
+EMA RSI 10: 55.46 | EMA RSI 20: 55.97 | EMA RSI 30: 55.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:05:39.033859 - 🔻 TÍN HIỆU EMA RSI SHORT: AWE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0554
+EMA RSI 10: 48.66 | EMA RSI 20: 48.96 | EMA RSI 30: 49.00
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:05:54.583838 - 🚀 TÍN HIỆU EMA RSI LONG: XVS/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.7000
+EMA RSI 10: 64.40 | EMA RSI 20: 63.90 | EMA RSI 30: 64.23
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:06:09.833212 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:06:18.097903 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:06:27.747190 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:39:52.524182 - 🔻 TÍN HIỆU EMA RSI SHORT: SOL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 143.4800
+EMA RSI 10: 58.81 | EMA RSI 20: 59.32 | EMA RSI 30: 58.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:40:10.068784 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 72.3600
+EMA RSI 10: 38.46 | EMA RSI 20: 38.83 | EMA RSI 30: 39.68
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:40:28.619891 - 🔻 TÍN HIỆU EMA RSI SHORT: NEAR/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.7460
+EMA RSI 10: 54.65 | EMA RSI 20: 55.49 | EMA RSI 30: 55.11
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:40:38.675491 - 🔻 TÍN HIỆU EMA RSI SHORT: WLD/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.5757
+EMA RSI 10: 51.60 | EMA RSI 20: 51.90 | EMA RSI 30: 51.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:40:45.066147 - 🔻 TÍN HIỆU EMA RSI SHORT: ONDO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3859
+EMA RSI 10: 45.13 | EMA RSI 20: 45.74 | EMA RSI 30: 45.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:40:51.767115 - 🔻 TÍN HIỆU EMA RSI SHORT: ALGO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.1319
+EMA RSI 10: 50.23 | EMA RSI 20: 50.93 | EMA RSI 30: 51.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:41:06.933743 - 🔻 TÍN HIỆU EMA RSI SHORT: PENGU/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0125
+EMA RSI 10: 53.84 | EMA RSI 20: 54.39 | EMA RSI 30: 54.32
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:41:23.178859 - 🔻 TÍN HIỆU EMA RSI SHORT: IMX/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2700
+EMA RSI 10: 52.98 | EMA RSI 20: 53.46 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:41:30.996173 - 🔻 TÍN HIỆU EMA RSI SHORT: INJ/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.2420
+EMA RSI 10: 53.21 | EMA RSI 20: 54.31 | EMA RSI 30: 54.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:41:39.924641 - 🔻 TÍN HIỆU EMA RSI SHORT: FLOKI/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0001
+EMA RSI 10: 49.10 | EMA RSI 20: 49.48 | EMA RSI 30: 49.41
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:42:03.306037 - 🔻 TÍN HIỆU EMA RSI SHORT: WIF/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3850
+EMA RSI 10: 53.80 | EMA RSI 20: 54.31 | EMA RSI 30: 53.95
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:42:08.427564 - 🔻 TÍN HIỆU EMA RSI SHORT: PYTH/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0658
+EMA RSI 10: 51.20 | EMA RSI 20: 52.06 | EMA RSI 30: 52.16
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:42:14.662193 - 🔻 TÍN HIỆU EMA RSI SHORT: PENDLE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 2.1350
+EMA RSI 10: 53.05 | EMA RSI 20: 54.16 | EMA RSI 30: 53.88
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:42:18.831105 - 🔻 TÍN HIỆU EMA RSI SHORT: GALA/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0071
+EMA RSI 10: 53.36 | EMA RSI 20: 53.85 | EMA RSI 30: 53.56
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:42:24.306729 - 🔻 TÍN HIỆU EMA RSI SHORT: RAY/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.1610
+EMA RSI 10: 52.61 | EMA RSI 20: 53.58 | EMA RSI 30: 54.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:42:46.687842 - 🔻 TÍN HIỆU EMA RSI SHORT: LUNC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0000
+EMA RSI 10: 49.18 | EMA RSI 20: 49.57 | EMA RSI 30: 49.59
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:42:50.725469 - 🔻 TÍN HIỆU EMA RSI SHORT: EIGEN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.4120
+EMA RSI 10: 52.91 | EMA RSI 20: 53.65 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:43:04.271761 - 🔻 TÍN HIỆU EMA RSI SHORT: W/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0368
+EMA RSI 10: 52.81 | EMA RSI 20: 53.38 | EMA RSI 30: 52.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:43:09.647259 - 🚀 TÍN HIỆU EMA RSI LONG: SFP/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3716
+EMA RSI 10: 58.12 | EMA RSI 20: 58.09 | EMA RSI 30: 57.94
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:43:32.750119 - 🔻 TÍN HIỆU EMA RSI SHORT: TFUEL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0197
+EMA RSI 10: 51.65 | EMA RSI 20: 51.73 | EMA RSI 30: 52.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:43:44.023792 - 🔻 TÍN HIỆU EMA RSI SHORT: TURBO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0018
+EMA RSI 10: 46.56 | EMA RSI 20: 47.44 | EMA RSI 30: 47.54
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:43:50.406287 - 🔻 TÍN HIỆU EMA RSI SHORT: MET/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2545
+EMA RSI 10: 48.04 | EMA RSI 20: 49.10 | EMA RSI 30: 48.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:43:56.723377 - 🔻 TÍN HIỆU EMA RSI SHORT: RVN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0075
+EMA RSI 10: 50.29 | EMA RSI 20: 51.15 | EMA RSI 30: 51.23
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:44:01.861529 - 🔻 TÍN HIỆU EMA RSI SHORT: T/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0099
+EMA RSI 10: 55.46 | EMA RSI 20: 55.97 | EMA RSI 30: 55.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:44:11.164846 - 🔻 TÍN HIỆU EMA RSI SHORT: AWE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0554
+EMA RSI 10: 48.66 | EMA RSI 20: 48.96 | EMA RSI 30: 49.00
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:44:27.434554 - 🚀 TÍN HIỆU EMA RSI LONG: XVS/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.7000
+EMA RSI 10: 64.40 | EMA RSI 20: 63.90 | EMA RSI 30: 64.23
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:44:43.208131 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:44:52.007586 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:45:02.516508 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-15 23:47:47.918655 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.6640
+EMA RSI 10: 42.62 | EMA RSI 20: 42.68 | EMA RSI 30: 42.68
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:18:31.543138 - 🔻 TÍN HIỆU EMA RSI SHORT: SOL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 143.4800
+EMA RSI 10: 58.81 | EMA RSI 20: 59.32 | EMA RSI 30: 58.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:18:48.419151 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 72.3600
+EMA RSI 10: 38.46 | EMA RSI 20: 38.83 | EMA RSI 30: 39.68
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:19:06.654154 - 🔻 TÍN HIỆU EMA RSI SHORT: NEAR/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.7460
+EMA RSI 10: 54.65 | EMA RSI 20: 55.49 | EMA RSI 30: 55.11
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:19:16.252287 - 🔻 TÍN HIỆU EMA RSI SHORT: WLD/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.5757
+EMA RSI 10: 51.60 | EMA RSI 20: 51.90 | EMA RSI 30: 51.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:19:22.409305 - 🔻 TÍN HIỆU EMA RSI SHORT: ONDO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3859
+EMA RSI 10: 45.13 | EMA RSI 20: 45.74 | EMA RSI 30: 45.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:19:28.462835 - 🔻 TÍN HIỆU EMA RSI SHORT: ALGO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.1319
+EMA RSI 10: 50.23 | EMA RSI 20: 50.93 | EMA RSI 30: 51.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:19:42.904635 - 🔻 TÍN HIỆU EMA RSI SHORT: PENGU/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0125
+EMA RSI 10: 53.84 | EMA RSI 20: 54.39 | EMA RSI 30: 54.32
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:19:57.554138 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0614
+EMA RSI 10: 65.98 | EMA RSI 20: 65.06 | EMA RSI 30: 64.11
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:20:01.203276 - 🔻 TÍN HIỆU EMA RSI SHORT: IMX/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2700
+EMA RSI 10: 52.98 | EMA RSI 20: 53.46 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:20:08.418918 - 🔻 TÍN HIỆU EMA RSI SHORT: INJ/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.2420
+EMA RSI 10: 53.21 | EMA RSI 20: 54.31 | EMA RSI 30: 54.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:20:16.807730 - 🔻 TÍN HIỆU EMA RSI SHORT: FLOKI/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0001
+EMA RSI 10: 49.10 | EMA RSI 20: 49.48 | EMA RSI 30: 49.41
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:20:39.882592 - 🔻 TÍN HIỆU EMA RSI SHORT: WIF/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3850
+EMA RSI 10: 53.80 | EMA RSI 20: 54.31 | EMA RSI 30: 53.95
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:20:44.714446 - 🔻 TÍN HIỆU EMA RSI SHORT: PYTH/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0658
+EMA RSI 10: 51.20 | EMA RSI 20: 52.06 | EMA RSI 30: 52.16
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:20:50.809575 - 🔻 TÍN HIỆU EMA RSI SHORT: PENDLE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 2.1350
+EMA RSI 10: 53.05 | EMA RSI 20: 54.16 | EMA RSI 30: 53.88
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:20:54.409966 - 🔻 TÍN HIỆU EMA RSI SHORT: GALA/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0071
+EMA RSI 10: 53.36 | EMA RSI 20: 53.85 | EMA RSI 30: 53.56
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:20:59.191976 - 🔻 TÍN HIỆU EMA RSI SHORT: RAY/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.1610
+EMA RSI 10: 52.61 | EMA RSI 20: 53.58 | EMA RSI 30: 54.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:21:21.308245 - 🔻 TÍN HIỆU EMA RSI SHORT: LUNC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0000
+EMA RSI 10: 49.18 | EMA RSI 20: 49.57 | EMA RSI 30: 49.59
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:21:24.903651 - 🔻 TÍN HIỆU EMA RSI SHORT: EIGEN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.4120
+EMA RSI 10: 52.91 | EMA RSI 20: 53.65 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:21:38.503004 - 🔻 TÍN HIỆU EMA RSI SHORT: W/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0368
+EMA RSI 10: 52.81 | EMA RSI 20: 53.38 | EMA RSI 30: 52.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:21:43.364568 - 🚀 TÍN HIỆU EMA RSI LONG: SFP/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3716
+EMA RSI 10: 58.12 | EMA RSI 20: 58.09 | EMA RSI 30: 57.94
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:22:06.766049 - 🔻 TÍN HIỆU EMA RSI SHORT: TFUEL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0197
+EMA RSI 10: 51.65 | EMA RSI 20: 51.73 | EMA RSI 30: 52.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:22:15.136324 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 7.5100
+EMA RSI 10: 49.84 | EMA RSI 20: 50.53 | EMA RSI 30: 50.38
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:22:19.879783 - 🔻 TÍN HIỆU EMA RSI SHORT: TURBO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0018
+EMA RSI 10: 46.56 | EMA RSI 20: 47.44 | EMA RSI 30: 47.54
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:22:26.111918 - 🔻 TÍN HIỆU EMA RSI SHORT: MET/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2545
+EMA RSI 10: 48.04 | EMA RSI 20: 49.10 | EMA RSI 30: 48.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:22:32.154392 - 🔻 TÍN HIỆU EMA RSI SHORT: RVN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0075
+EMA RSI 10: 50.29 | EMA RSI 20: 51.15 | EMA RSI 30: 51.23
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:22:36.897881 - 🔻 TÍN HIỆU EMA RSI SHORT: T/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0099
+EMA RSI 10: 55.46 | EMA RSI 20: 55.97 | EMA RSI 30: 55.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:22:45.320760 - 🔻 TÍN HIỆU EMA RSI SHORT: AWE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0554
+EMA RSI 10: 48.66 | EMA RSI 20: 48.96 | EMA RSI 30: 49.00
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:23:01.196773 - 🚀 TÍN HIỆU EMA RSI LONG: XVS/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.7000
+EMA RSI 10: 64.40 | EMA RSI 20: 63.90 | EMA RSI 30: 64.23
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:23:16.789222 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:23:25.470198 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:23:35.254549 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:26:21.278763 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.5940
+EMA RSI 10: 42.53 | EMA RSI 20: 42.64 | EMA RSI 30: 42.65
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:57:04.863612 - 🔻 TÍN HIỆU EMA RSI SHORT: SOL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 143.4800
+EMA RSI 10: 58.81 | EMA RSI 20: 59.32 | EMA RSI 30: 58.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:57:22.065170 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 72.3600
+EMA RSI 10: 38.46 | EMA RSI 20: 38.83 | EMA RSI 30: 39.68
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:57:40.576026 - 🔻 TÍN HIỆU EMA RSI SHORT: NEAR/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.7460
+EMA RSI 10: 54.65 | EMA RSI 20: 55.49 | EMA RSI 30: 55.11
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:57:50.279251 - 🔻 TÍN HIỆU EMA RSI SHORT: WLD/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.5757
+EMA RSI 10: 51.60 | EMA RSI 20: 51.90 | EMA RSI 30: 51.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:57:56.277631 - 🔻 TÍN HIỆU EMA RSI SHORT: ONDO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3859
+EMA RSI 10: 45.13 | EMA RSI 20: 45.74 | EMA RSI 30: 45.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:58:02.264766 - 🔻 TÍN HIỆU EMA RSI SHORT: ALGO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.1319
+EMA RSI 10: 50.23 | EMA RSI 20: 50.93 | EMA RSI 30: 51.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:58:16.682122 - 🔻 TÍN HIỆU EMA RSI SHORT: PENGU/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0125
+EMA RSI 10: 53.84 | EMA RSI 20: 54.39 | EMA RSI 30: 54.32
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:58:31.443554 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0605
+EMA RSI 10: 65.72 | EMA RSI 20: 64.92 | EMA RSI 30: 64.02
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:58:35.052991 - 🔻 TÍN HIỆU EMA RSI SHORT: IMX/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2700
+EMA RSI 10: 52.98 | EMA RSI 20: 53.46 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:58:42.156457 - 🔻 TÍN HIỆU EMA RSI SHORT: INJ/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.2420
+EMA RSI 10: 53.21 | EMA RSI 20: 54.31 | EMA RSI 30: 54.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:58:50.547345 - 🔻 TÍN HIỆU EMA RSI SHORT: FLOKI/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0001
+EMA RSI 10: 49.10 | EMA RSI 20: 49.48 | EMA RSI 30: 49.41
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:59:14.070105 - 🔻 TÍN HIỆU EMA RSI SHORT: WIF/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3850
+EMA RSI 10: 53.80 | EMA RSI 20: 54.31 | EMA RSI 30: 53.95
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:59:18.905326 - 🔻 TÍN HIỆU EMA RSI SHORT: PYTH/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0658
+EMA RSI 10: 51.20 | EMA RSI 20: 52.06 | EMA RSI 30: 52.16
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:59:24.907697 - 🔻 TÍN HIỆU EMA RSI SHORT: PENDLE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 2.1350
+EMA RSI 10: 53.05 | EMA RSI 20: 54.16 | EMA RSI 30: 53.88
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:59:28.529038 - 🔻 TÍN HIỆU EMA RSI SHORT: GALA/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0071
+EMA RSI 10: 53.36 | EMA RSI 20: 53.85 | EMA RSI 30: 53.56
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:59:33.277886 - 🔻 TÍN HIỆU EMA RSI SHORT: RAY/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.1610
+EMA RSI 10: 52.61 | EMA RSI 20: 53.58 | EMA RSI 30: 54.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:59:55.220781 - 🔻 TÍN HIỆU EMA RSI SHORT: LUNC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0000
+EMA RSI 10: 49.18 | EMA RSI 20: 49.57 | EMA RSI 30: 49.59
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 00:59:58.807288 - 🔻 TÍN HIỆU EMA RSI SHORT: EIGEN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.4120
+EMA RSI 10: 52.91 | EMA RSI 20: 53.65 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:00:13.011591 - 🔻 TÍN HIỆU EMA RSI SHORT: W/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0368
+EMA RSI 10: 52.81 | EMA RSI 20: 53.38 | EMA RSI 30: 52.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:00:17.831655 - 🔻 TÍN HIỆU EMA RSI SHORT: SFP/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.3647
+EMA RSI 10: 56.57 | EMA RSI 20: 57.28 | EMA RSI 30: 57.40
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:00:20.228377 - 🚀 TÍN HIỆU EMA RSI LONG: SFP/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3716
+EMA RSI 10: 58.12 | EMA RSI 20: 58.09 | EMA RSI 30: 57.94
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:00:43.338609 - 🔻 TÍN HIỆU EMA RSI SHORT: TFUEL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0197
+EMA RSI 10: 51.65 | EMA RSI 20: 51.73 | EMA RSI 30: 52.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:00:51.736423 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 7.4800
+EMA RSI 10: 49.70 | EMA RSI 20: 50.46 | EMA RSI 30: 50.33
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:00:56.708748 - 🔻 TÍN HIỆU EMA RSI SHORT: TURBO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0018
+EMA RSI 10: 46.56 | EMA RSI 20: 47.44 | EMA RSI 30: 47.54
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:01:02.779381 - 🔻 TÍN HIỆU EMA RSI SHORT: MET/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2545
+EMA RSI 10: 48.04 | EMA RSI 20: 49.10 | EMA RSI 30: 48.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:01:09.182258 - 🔻 TÍN HIỆU EMA RSI SHORT: RVN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0075
+EMA RSI 10: 50.29 | EMA RSI 20: 51.15 | EMA RSI 30: 51.23
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:01:14.019273 - 🔻 TÍN HIỆU EMA RSI SHORT: T/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0099
+EMA RSI 10: 55.46 | EMA RSI 20: 55.97 | EMA RSI 30: 55.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:01:22.701607 - 🔻 TÍN HIỆU EMA RSI SHORT: AWE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0554
+EMA RSI 10: 48.66 | EMA RSI 20: 48.96 | EMA RSI 30: 49.00
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:01:38.420536 - 🚀 TÍN HIỆU EMA RSI LONG: XVS/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.7000
+EMA RSI 10: 64.40 | EMA RSI 20: 63.90 | EMA RSI 30: 64.23
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:01:53.934547 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:02:02.398579 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:02:12.435937 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:04:58.490030 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.5620
+EMA RSI 10: 42.49 | EMA RSI 20: 42.62 | EMA RSI 30: 42.64
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:35:42.695462 - 🔻 TÍN HIỆU EMA RSI SHORT: SOL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 143.4800
+EMA RSI 10: 58.81 | EMA RSI 20: 59.32 | EMA RSI 30: 58.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:36:00.350022 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 72.3600
+EMA RSI 10: 38.46 | EMA RSI 20: 38.83 | EMA RSI 30: 39.68
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:36:18.644220 - 🔻 TÍN HIỆU EMA RSI SHORT: NEAR/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.7460
+EMA RSI 10: 54.65 | EMA RSI 20: 55.49 | EMA RSI 30: 55.11
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:36:28.210619 - 🔻 TÍN HIỆU EMA RSI SHORT: WLD/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.5757
+EMA RSI 10: 51.60 | EMA RSI 20: 51.90 | EMA RSI 30: 51.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:36:34.403294 - 🔻 TÍN HIỆU EMA RSI SHORT: ONDO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3859
+EMA RSI 10: 45.13 | EMA RSI 20: 45.74 | EMA RSI 30: 45.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:36:40.415868 - 🔻 TÍN HIỆU EMA RSI SHORT: ALGO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.1319
+EMA RSI 10: 50.23 | EMA RSI 20: 50.93 | EMA RSI 30: 51.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:36:47.616429 - 🔻 TÍN HIỆU EMA RSI SHORT: VET/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0115
+EMA RSI 10: 51.30 | EMA RSI 20: 51.84 | EMA RSI 30: 51.40
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:36:56.167946 - 🔻 TÍN HIỆU EMA RSI SHORT: SEI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.1202
+EMA RSI 10: 49.78 | EMA RSI 20: 50.66 | EMA RSI 30: 50.52
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:36:59.720777 - 🔻 TÍN HIỆU EMA RSI SHORT: PENGU/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0125
+EMA RSI 10: 53.84 | EMA RSI 20: 54.39 | EMA RSI 30: 54.32
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:37:14.652727 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0607
+EMA RSI 10: 65.78 | EMA RSI 20: 64.95 | EMA RSI 30: 64.04
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:37:18.325944 - 🔻 TÍN HIỆU EMA RSI SHORT: IMX/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2700
+EMA RSI 10: 52.98 | EMA RSI 20: 53.46 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:37:25.510398 - 🔻 TÍN HIỆU EMA RSI SHORT: INJ/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.2420
+EMA RSI 10: 53.21 | EMA RSI 20: 54.31 | EMA RSI 30: 54.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:37:33.886523 - 🔻 TÍN HIỆU EMA RSI SHORT: FLOKI/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0001
+EMA RSI 10: 49.10 | EMA RSI 20: 49.48 | EMA RSI 30: 49.41
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:37:57.333401 - 🔻 TÍN HIỆU EMA RSI SHORT: WIF/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3850
+EMA RSI 10: 53.80 | EMA RSI 20: 54.31 | EMA RSI 30: 53.95
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:38:02.142841 - 🔻 TÍN HIỆU EMA RSI SHORT: PYTH/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0658
+EMA RSI 10: 51.20 | EMA RSI 20: 52.06 | EMA RSI 30: 52.16
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:38:08.119002 - 🔻 TÍN HIỆU EMA RSI SHORT: PENDLE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 2.1350
+EMA RSI 10: 53.05 | EMA RSI 20: 54.16 | EMA RSI 30: 53.88
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:38:13.320494 - 🔻 TÍN HIỆU EMA RSI SHORT: GALA/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0071
+EMA RSI 10: 53.36 | EMA RSI 20: 53.85 | EMA RSI 30: 53.56
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:38:18.066331 - 🔻 TÍN HIỆU EMA RSI SHORT: RAY/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.1610
+EMA RSI 10: 52.61 | EMA RSI 20: 53.58 | EMA RSI 30: 54.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:38:29.903892 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.1440
+EMA RSI 10: 42.40 | EMA RSI 20: 42.81 | EMA RSI 30: 42.82
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:38:43.624525 - 🔻 TÍN HIỆU EMA RSI SHORT: LUNC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0000
+EMA RSI 10: 49.18 | EMA RSI 20: 49.57 | EMA RSI 30: 49.59
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:38:47.210331 - 🔻 TÍN HIỆU EMA RSI SHORT: EIGEN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.4120
+EMA RSI 10: 52.91 | EMA RSI 20: 53.65 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:39:00.404399 - 🔻 TÍN HIỆU EMA RSI SHORT: W/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0368
+EMA RSI 10: 52.81 | EMA RSI 20: 53.38 | EMA RSI 30: 52.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:39:05.166068 - 🔻 TÍN HIỆU EMA RSI SHORT: SFP/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.3637
+EMA RSI 10: 56.35 | EMA RSI 20: 57.17 | EMA RSI 30: 57.32
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:39:07.578409 - 🚀 TÍN HIỆU EMA RSI LONG: SFP/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3716
+EMA RSI 10: 58.12 | EMA RSI 20: 58.09 | EMA RSI 30: 57.94
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:39:30.978885 - 🔻 TÍN HIỆU EMA RSI SHORT: TFUEL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0197
+EMA RSI 10: 51.65 | EMA RSI 20: 51.73 | EMA RSI 30: 52.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:39:39.329929 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 7.4300
+EMA RSI 10: 49.47 | EMA RSI 20: 50.34 | EMA RSI 30: 50.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:39:44.124934 - 🔻 TÍN HIỆU EMA RSI SHORT: TURBO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0018
+EMA RSI 10: 46.56 | EMA RSI 20: 47.44 | EMA RSI 30: 47.54
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:39:50.211987 - 🔻 TÍN HIỆU EMA RSI SHORT: MET/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2545
+EMA RSI 10: 48.04 | EMA RSI 20: 49.10 | EMA RSI 30: 48.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:39:56.382705 - 🔻 TÍN HIỆU EMA RSI SHORT: RVN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0075
+EMA RSI 10: 50.29 | EMA RSI 20: 51.15 | EMA RSI 30: 51.23
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:40:01.172675 - 🔻 TÍN HIỆU EMA RSI SHORT: T/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0099
+EMA RSI 10: 55.46 | EMA RSI 20: 55.97 | EMA RSI 30: 55.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:40:09.720548 - 🔻 TÍN HIỆU EMA RSI SHORT: AWE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0554
+EMA RSI 10: 48.66 | EMA RSI 20: 48.96 | EMA RSI 30: 49.00
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:40:25.572217 - 🚀 TÍN HIỆU EMA RSI LONG: XVS/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.7000
+EMA RSI 10: 64.40 | EMA RSI 20: 63.90 | EMA RSI 30: 64.23
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:40:41.196320 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:40:49.764000 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:40:59.459102 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 01:43:45.314472 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.5120
+EMA RSI 10: 42.43 | EMA RSI 20: 42.58 | EMA RSI 30: 42.62
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:14:29.655203 - 🔻 TÍN HIỆU EMA RSI SHORT: SOL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 143.4800
+EMA RSI 10: 58.81 | EMA RSI 20: 59.32 | EMA RSI 30: 58.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:14:46.662208 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 72.3600
+EMA RSI 10: 38.46 | EMA RSI 20: 38.83 | EMA RSI 30: 39.68
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:14:58.686028 - 🔻 TÍN HIỆU EMA RSI SHORT: UNI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 5.3080
+EMA RSI 10: 47.27 | EMA RSI 20: 48.59 | EMA RSI 30: 47.86
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:15:07.531692 - 🔻 TÍN HIỆU EMA RSI SHORT: NEAR/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.7460
+EMA RSI 10: 54.65 | EMA RSI 20: 55.49 | EMA RSI 30: 55.11
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:15:17.270594 - 🔻 TÍN HIỆU EMA RSI SHORT: WLD/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.5757
+EMA RSI 10: 51.60 | EMA RSI 20: 51.90 | EMA RSI 30: 51.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:15:23.276082 - 🔻 TÍN HIỆU EMA RSI SHORT: ONDO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3859
+EMA RSI 10: 45.13 | EMA RSI 20: 45.74 | EMA RSI 30: 45.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:15:28.290786 - 🔻 TÍN HIỆU EMA RSI SHORT: ARB/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.2060
+EMA RSI 10: 52.09 | EMA RSI 20: 53.00 | EMA RSI 30: 52.60
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:15:31.898353 - 🔻 TÍN HIỆU EMA RSI SHORT: ALGO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.1319
+EMA RSI 10: 50.23 | EMA RSI 20: 50.93 | EMA RSI 30: 51.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:15:36.758782 - 🔻 TÍN HIỆU EMA RSI SHORT: FIL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 1.4720
+EMA RSI 10: 53.03 | EMA RSI 20: 53.64 | EMA RSI 30: 53.20
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:15:41.583041 - 🔻 TÍN HIỆU EMA RSI SHORT: VET/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0115
+EMA RSI 10: 50.99 | EMA RSI 20: 51.67 | EMA RSI 30: 51.29
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:15:49.990695 - 🔻 TÍN HIỆU EMA RSI SHORT: SEI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.1195
+EMA RSI 10: 49.50 | EMA RSI 20: 50.51 | EMA RSI 30: 50.42
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:15:53.647756 - 🔻 TÍN HIỆU EMA RSI SHORT: PENGU/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0125
+EMA RSI 10: 53.84 | EMA RSI 20: 54.39 | EMA RSI 30: 54.32
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:16:05.887407 - 🔻 TÍN HIỆU EMA RSI SHORT: XTZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.5794
+EMA RSI 10: 52.54 | EMA RSI 20: 52.65 | EMA RSI 30: 53.08
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:16:10.697592 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0605
+EMA RSI 10: 65.72 | EMA RSI 20: 64.92 | EMA RSI 30: 64.02
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:16:14.458598 - 🔻 TÍN HIỆU EMA RSI SHORT: IMX/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2700
+EMA RSI 10: 52.98 | EMA RSI 20: 53.46 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:16:21.851319 - 🔻 TÍN HIỆU EMA RSI SHORT: INJ/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.2420
+EMA RSI 10: 53.21 | EMA RSI 20: 54.31 | EMA RSI 30: 54.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:16:27.818275 - 🔻 TÍN HIỆU EMA RSI SHORT: TIA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.5518
+EMA RSI 10: 52.68 | EMA RSI 20: 54.29 | EMA RSI 30: 54.31
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:16:31.425689 - 🔻 TÍN HIỆU EMA RSI SHORT: ETHFI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.7280
+EMA RSI 10: 50.57 | EMA RSI 20: 52.20 | EMA RSI 30: 52.02
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:16:35.051551 - 🔻 TÍN HIỆU EMA RSI SHORT: FLOKI/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0001
+EMA RSI 10: 49.10 | EMA RSI 20: 49.48 | EMA RSI 30: 49.41
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:16:58.128846 - 🔻 TÍN HIỆU EMA RSI SHORT: WIF/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3850
+EMA RSI 10: 53.80 | EMA RSI 20: 54.31 | EMA RSI 30: 53.95
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:17:02.882111 - 🔻 TÍN HIỆU EMA RSI SHORT: PYTH/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0658
+EMA RSI 10: 51.20 | EMA RSI 20: 52.06 | EMA RSI 30: 52.16
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:17:08.984077 - 🔻 TÍN HIỆU EMA RSI SHORT: PENDLE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 2.1350
+EMA RSI 10: 53.05 | EMA RSI 20: 54.16 | EMA RSI 30: 53.88
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:17:13.399341 - 🔻 TÍN HIỆU EMA RSI SHORT: GALA/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0071
+EMA RSI 10: 53.36 | EMA RSI 20: 53.85 | EMA RSI 30: 53.56
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:17:18.177152 - 🔻 TÍN HIỆU EMA RSI SHORT: RAY/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.1610
+EMA RSI 10: 52.61 | EMA RSI 20: 53.58 | EMA RSI 30: 54.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:17:26.703673 - 🔻 TÍN HIỆU EMA RSI SHORT: A/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.1697
+EMA RSI 10: 49.89 | EMA RSI 20: 50.90 | EMA RSI 30: 50.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:17:31.540763 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.1437
+EMA RSI 10: 42.37 | EMA RSI 20: 42.79 | EMA RSI 30: 42.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:17:44.853161 - 🔻 TÍN HIỆU EMA RSI SHORT: LUNC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0000
+EMA RSI 10: 49.18 | EMA RSI 20: 49.57 | EMA RSI 30: 49.59
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:17:48.446243 - 🔻 TÍN HIỆU EMA RSI SHORT: EIGEN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.4120
+EMA RSI 10: 52.91 | EMA RSI 20: 53.65 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:18:01.632863 - 🔻 TÍN HIỆU EMA RSI SHORT: W/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0368
+EMA RSI 10: 52.81 | EMA RSI 20: 53.38 | EMA RSI 30: 52.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:18:06.694021 - 🔻 TÍN HIỆU EMA RSI SHORT: SFP/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.3615
+EMA RSI 10: 55.91 | EMA RSI 20: 56.93 | EMA RSI 30: 57.17
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:18:09.077283 - 🚀 TÍN HIỆU EMA RSI LONG: SFP/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3716
+EMA RSI 10: 58.12 | EMA RSI 20: 58.09 | EMA RSI 30: 57.94
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:18:20.188051 - 🔻 TÍN HIỆU EMA RSI SHORT: RSR/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0026
+EMA RSI 10: 49.55 | EMA RSI 20: 50.42 | EMA RSI 30: 50.09
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:18:35.535514 - 🔻 TÍN HIỆU EMA RSI SHORT: TFUEL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0197
+EMA RSI 10: 51.65 | EMA RSI 20: 51.73 | EMA RSI 30: 52.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:18:43.962896 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 7.4100
+EMA RSI 10: 49.39 | EMA RSI 20: 50.29 | EMA RSI 30: 50.22
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:18:48.759467 - 🔻 TÍN HIỆU EMA RSI SHORT: TURBO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0018
+EMA RSI 10: 46.56 | EMA RSI 20: 47.44 | EMA RSI 30: 47.54
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:18:54.798378 - 🔻 TÍN HIỆU EMA RSI SHORT: MET/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2545
+EMA RSI 10: 48.04 | EMA RSI 20: 49.10 | EMA RSI 30: 48.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:19:00.813412 - 🔻 TÍN HIỆU EMA RSI SHORT: RVN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0075
+EMA RSI 10: 50.29 | EMA RSI 20: 51.15 | EMA RSI 30: 51.23
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:19:05.624389 - 🔻 TÍN HIỆU EMA RSI SHORT: T/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0099
+EMA RSI 10: 55.46 | EMA RSI 20: 55.97 | EMA RSI 30: 55.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:19:14.025934 - 🔻 TÍN HIỆU EMA RSI SHORT: AWE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0554
+EMA RSI 10: 48.66 | EMA RSI 20: 48.96 | EMA RSI 30: 49.00
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:19:21.163703 - 🔻 TÍN HIỆU EMA RSI SHORT: LINEA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0063
+EMA RSI 10: 46.53 | EMA RSI 20: 47.45 | EMA RSI 30: 47.31
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:19:28.488111 - 🔻 TÍN HIỆU EMA RSI SHORT: SUSHI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.3244
+EMA RSI 10: 52.49 | EMA RSI 20: 53.51 | EMA RSI 30: 53.04
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:19:34.509178 - 🚀 TÍN HIỆU EMA RSI LONG: XVS/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.7000
+EMA RSI 10: 64.40 | EMA RSI 20: 63.90 | EMA RSI 30: 64.23
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:19:50.036117 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:19:58.673149 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:20:08.618590 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:22:54.879997 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.5220
+EMA RSI 10: 42.45 | EMA RSI 20: 42.59 | EMA RSI 30: 42.62
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:53:38.352531 - 🔻 TÍN HIỆU EMA RSI SHORT: SOL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 143.4800
+EMA RSI 10: 58.81 | EMA RSI 20: 59.32 | EMA RSI 30: 58.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:53:45.820798 - 🔻 TÍN HIỆU EMA RSI SHORT: ADA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.3923
+EMA RSI 10: 51.78 | EMA RSI 20: 53.19 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:53:56.664323 - 🔻 TÍN HIỆU EMA RSI SHORT: AVAX/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 13.7400
+EMA RSI 10: 52.47 | EMA RSI 20: 53.59 | EMA RSI 30: 53.20
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:54:00.271358 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 72.3600
+EMA RSI 10: 38.46 | EMA RSI 20: 38.83 | EMA RSI 30: 39.68
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:54:12.239764 - 🔻 TÍN HIỆU EMA RSI SHORT: UNI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 5.3100
+EMA RSI 10: 47.29 | EMA RSI 20: 48.60 | EMA RSI 30: 47.86
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:54:20.772642 - 🔻 TÍN HIỆU EMA RSI SHORT: NEAR/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.7460
+EMA RSI 10: 54.65 | EMA RSI 20: 55.49 | EMA RSI 30: 55.11
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:54:30.440786 - 🔻 TÍN HIỆU EMA RSI SHORT: WLD/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.5757
+EMA RSI 10: 51.60 | EMA RSI 20: 51.90 | EMA RSI 30: 51.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:54:36.373996 - 🔻 TÍN HIỆU EMA RSI SHORT: ONDO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3859
+EMA RSI 10: 45.13 | EMA RSI 20: 45.74 | EMA RSI 30: 45.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:54:41.744159 - 🔻 TÍN HIỆU EMA RSI SHORT: ARB/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.2074
+EMA RSI 10: 52.36 | EMA RSI 20: 53.15 | EMA RSI 30: 52.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:54:45.433216 - 🔻 TÍN HIỆU EMA RSI SHORT: ALGO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.1319
+EMA RSI 10: 50.23 | EMA RSI 20: 50.93 | EMA RSI 30: 51.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:54:50.274974 - 🔻 TÍN HIỆU EMA RSI SHORT: FIL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 1.4770
+EMA RSI 10: 53.13 | EMA RSI 20: 53.69 | EMA RSI 30: 53.24
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:54:55.030401 - 🔻 TÍN HIỆU EMA RSI SHORT: VET/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0115
+EMA RSI 10: 51.16 | EMA RSI 20: 51.76 | EMA RSI 30: 51.35
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:55:04.015923 - 🔻 TÍN HIỆU EMA RSI SHORT: SEI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.1204
+EMA RSI 10: 49.86 | EMA RSI 20: 50.70 | EMA RSI 30: 50.54
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:55:07.604306 - 🔻 TÍN HIỆU EMA RSI SHORT: PENGU/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0125
+EMA RSI 10: 53.84 | EMA RSI 20: 54.39 | EMA RSI 30: 54.32
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:55:19.640812 - 🔻 TÍN HIỆU EMA RSI SHORT: XTZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.5811
+EMA RSI 10: 52.71 | EMA RSI 20: 52.74 | EMA RSI 30: 53.14
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:55:24.404036 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0594
+EMA RSI 10: 65.37 | EMA RSI 20: 64.74 | EMA RSI 30: 63.89
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:55:28.175066 - 🔻 TÍN HIỆU EMA RSI SHORT: IMX/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2700
+EMA RSI 10: 52.98 | EMA RSI 20: 53.46 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:55:35.791072 - 🔻 TÍN HIỆU EMA RSI SHORT: INJ/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.2420
+EMA RSI 10: 53.21 | EMA RSI 20: 54.31 | EMA RSI 30: 54.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:55:41.727039 - 🔻 TÍN HIỆU EMA RSI SHORT: TIA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.5553
+EMA RSI 10: 52.89 | EMA RSI 20: 54.40 | EMA RSI 30: 54.38
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:55:45.270476 - 🔻 TÍN HIỆU EMA RSI SHORT: ETHFI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.7310
+EMA RSI 10: 50.70 | EMA RSI 20: 52.27 | EMA RSI 30: 52.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:55:48.836431 - 🔻 TÍN HIỆU EMA RSI SHORT: FLOKI/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0001
+EMA RSI 10: 49.10 | EMA RSI 20: 49.48 | EMA RSI 30: 49.41
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:56:06.969580 - 🔻 TÍN HIỆU EMA RSI SHORT: ENS/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 10.2800
+EMA RSI 10: 51.92 | EMA RSI 20: 52.74 | EMA RSI 30: 52.44
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:56:14.325177 - 🔻 TÍN HIỆU EMA RSI SHORT: WIF/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3850
+EMA RSI 10: 53.80 | EMA RSI 20: 54.31 | EMA RSI 30: 53.95
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:56:19.061357 - 🔻 TÍN HIỆU EMA RSI SHORT: PYTH/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0658
+EMA RSI 10: 51.20 | EMA RSI 20: 52.06 | EMA RSI 30: 52.16
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:56:25.125162 - 🔻 TÍN HIỆU EMA RSI SHORT: PENDLE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 2.1350
+EMA RSI 10: 53.05 | EMA RSI 20: 54.16 | EMA RSI 30: 53.88
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:56:28.747976 - 🔻 TÍN HIỆU EMA RSI SHORT: GALA/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0071
+EMA RSI 10: 53.36 | EMA RSI 20: 53.85 | EMA RSI 30: 53.56
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:56:33.925233 - 🔻 TÍN HIỆU EMA RSI SHORT: RAY/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 1.1610
+EMA RSI 10: 52.61 | EMA RSI 20: 53.58 | EMA RSI 30: 54.07
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:56:42.456438 - 🔻 TÍN HIỆU EMA RSI SHORT: A/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.1696
+EMA RSI 10: 49.87 | EMA RSI 20: 50.89 | EMA RSI 30: 50.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:56:47.222059 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.1442
+EMA RSI 10: 42.43 | EMA RSI 20: 42.83 | EMA RSI 30: 42.83
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:57:00.688252 - 🔻 TÍN HIỆU EMA RSI SHORT: LUNC/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0000
+EMA RSI 10: 49.18 | EMA RSI 20: 49.57 | EMA RSI 30: 49.59
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:57:04.275046 - 🔻 TÍN HIỆU EMA RSI SHORT: EIGEN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.4120
+EMA RSI 10: 52.91 | EMA RSI 20: 53.65 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:57:17.627855 - 🔻 TÍN HIỆU EMA RSI SHORT: W/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0368
+EMA RSI 10: 52.81 | EMA RSI 20: 53.38 | EMA RSI 30: 52.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:57:22.438196 - 🔻 TÍN HIỆU EMA RSI SHORT: SFP/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.3621
+EMA RSI 10: 56.03 | EMA RSI 20: 57.00 | EMA RSI 30: 57.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:57:24.925680 - 🚀 TÍN HIỆU EMA RSI LONG: SFP/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.3716
+EMA RSI 10: 58.12 | EMA RSI 20: 58.09 | EMA RSI 30: 57.94
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:57:35.930722 - 🔻 TÍN HIỆU EMA RSI SHORT: RSR/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0026
+EMA RSI 10: 49.59 | EMA RSI 20: 50.44 | EMA RSI 30: 50.10
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:57:50.407968 - 🔻 TÍN HIỆU EMA RSI SHORT: TFUEL/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0197
+EMA RSI 10: 51.65 | EMA RSI 20: 51.73 | EMA RSI 30: 52.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:57:58.770051 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 7.4300
+EMA RSI 10: 49.47 | EMA RSI 20: 50.34 | EMA RSI 30: 50.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:58:03.571329 - 🔻 TÍN HIỆU EMA RSI SHORT: TURBO/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0018
+EMA RSI 10: 46.56 | EMA RSI 20: 47.44 | EMA RSI 30: 47.54
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:58:09.550062 - 🔻 TÍN HIỆU EMA RSI SHORT: MET/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.2545
+EMA RSI 10: 48.04 | EMA RSI 20: 49.10 | EMA RSI 30: 48.93
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:58:15.443787 - 🔻 TÍN HIỆU EMA RSI SHORT: RVN/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0075
+EMA RSI 10: 50.29 | EMA RSI 20: 51.15 | EMA RSI 30: 51.23
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:58:20.145349 - 🔻 TÍN HIỆU EMA RSI SHORT: T/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0099
+EMA RSI 10: 55.46 | EMA RSI 20: 55.97 | EMA RSI 30: 55.99
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:58:28.672329 - 🔻 TÍN HIỆU EMA RSI SHORT: AWE/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 0.0554
+EMA RSI 10: 48.66 | EMA RSI 20: 48.96 | EMA RSI 30: 49.00
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:58:35.788084 - 🔻 TÍN HIỆU EMA RSI SHORT: LINEA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.0063
+EMA RSI 10: 46.62 | EMA RSI 20: 47.50 | EMA RSI 30: 47.34
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:58:43.043009 - 🔻 TÍN HIỆU EMA RSI SHORT: SUSHI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 0 nến
+Giá: 0.3235
+EMA RSI 10: 52.39 | EMA RSI 20: 53.45 | EMA RSI 30: 53.01
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:58:49.006145 - 🚀 TÍN HIỆU EMA RSI LONG: XVS/USDT (4h)
+Thời gian: 2026-01-15 19:00:00
+Cách đây: 1 nến
+Giá: 5.7000
+EMA RSI 10: 64.40 | EMA RSI 20: 63.90 | EMA RSI 30: 64.23
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:59:04.610950 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:59:13.063355 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 02:59:22.905638 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:02:10.421644 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.5130
+EMA RSI 10: 42.43 | EMA RSI 20: 42.58 | EMA RSI 30: 42.62
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:32:58.940906 - 🔻 TÍN HIỆU EMA RSI SHORT: ADA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3925
+EMA RSI 10: 51.80 | EMA RSI 20: 53.20 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:33:09.888384 - 🔻 TÍN HIỆU EMA RSI SHORT: AVAX/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 13.7500
+EMA RSI 10: 52.50 | EMA RSI 20: 53.60 | EMA RSI 30: 53.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:33:23.258207 - 🔻 TÍN HIỆU EMA RSI SHORT: UNI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 5.3050
+EMA RSI 10: 47.25 | EMA RSI 20: 48.58 | EMA RSI 30: 47.85
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:33:45.592947 - 🔻 TÍN HIỆU EMA RSI SHORT: ARB/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.2075
+EMA RSI 10: 52.38 | EMA RSI 20: 53.16 | EMA RSI 30: 52.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:33:51.629775 - 🔻 TÍN HIỆU EMA RSI SHORT: FIL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 1.4800
+EMA RSI 10: 53.19 | EMA RSI 20: 53.72 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:33:56.481117 - 🔻 TÍN HIỆU EMA RSI SHORT: VET/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0115
+EMA RSI 10: 51.23 | EMA RSI 20: 51.80 | EMA RSI 30: 51.37
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:34:05.108258 - 🔻 TÍN HIỆU EMA RSI SHORT: SEI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1203
+EMA RSI 10: 49.82 | EMA RSI 20: 50.68 | EMA RSI 30: 50.53
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:34:20.793090 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0594
+EMA RSI 10: 65.37 | EMA RSI 20: 64.74 | EMA RSI 30: 63.89
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:34:32.974756 - 🔻 TÍN HIỆU EMA RSI SHORT: TIA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.5556
+EMA RSI 10: 52.91 | EMA RSI 20: 54.41 | EMA RSI 30: 54.39
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:34:36.543593 - 🔻 TÍN HIỆU EMA RSI SHORT: ETHFI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.7300
+EMA RSI 10: 50.66 | EMA RSI 20: 52.25 | EMA RSI 30: 52.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:34:56.140886 - 🔻 TÍN HIỆU EMA RSI SHORT: ENS/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 10.2800
+EMA RSI 10: 51.92 | EMA RSI 20: 52.74 | EMA RSI 30: 52.44
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:35:19.481526 - 🔻 TÍN HIỆU EMA RSI SHORT: A/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1698
+EMA RSI 10: 49.91 | EMA RSI 20: 50.91 | EMA RSI 30: 50.94
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:35:25.193309 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1442
+EMA RSI 10: 42.43 | EMA RSI 20: 42.83 | EMA RSI 30: 42.83
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:35:53.010242 - 🔻 TÍN HIỆU EMA RSI SHORT: SFP/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3620
+EMA RSI 10: 56.01 | EMA RSI 20: 56.99 | EMA RSI 30: 57.20
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:36:03.752870 - 🔻 TÍN HIỆU EMA RSI SHORT: RSR/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0026
+EMA RSI 10: 49.56 | EMA RSI 20: 50.42 | EMA RSI 30: 50.09
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:36:24.482891 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 7.4300
+EMA RSI 10: 49.47 | EMA RSI 20: 50.34 | EMA RSI 30: 50.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:36:50.159901 - 🔻 TÍN HIỆU EMA RSI SHORT: LINEA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0063
+EMA RSI 10: 46.62 | EMA RSI 20: 47.50 | EMA RSI 30: 47.34
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:36:57.388033 - 🔻 TÍN HIỆU EMA RSI SHORT: SUSHI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3236
+EMA RSI 10: 52.40 | EMA RSI 20: 53.46 | EMA RSI 30: 53.01
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:37:16.988501 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:37:25.406703 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:37:35.087153 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 03:40:20.962134 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.5110
+EMA RSI 10: 42.43 | EMA RSI 20: 42.58 | EMA RSI 30: 42.62
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:11:10.455836 - 🔻 TÍN HIỆU EMA RSI SHORT: ADA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3925
+EMA RSI 10: 51.80 | EMA RSI 20: 53.20 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:11:21.449998 - 🔻 TÍN HIỆU EMA RSI SHORT: AVAX/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 13.7500
+EMA RSI 10: 52.50 | EMA RSI 20: 53.60 | EMA RSI 30: 53.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:11:34.780440 - 🔻 TÍN HIỆU EMA RSI SHORT: UNI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 5.3050
+EMA RSI 10: 47.25 | EMA RSI 20: 48.58 | EMA RSI 30: 47.85
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:11:57.187454 - 🔻 TÍN HIỆU EMA RSI SHORT: ARB/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.2075
+EMA RSI 10: 52.38 | EMA RSI 20: 53.16 | EMA RSI 30: 52.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:12:03.159355 - 🔻 TÍN HIỆU EMA RSI SHORT: FIL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 1.4800
+EMA RSI 10: 53.19 | EMA RSI 20: 53.72 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:12:08.310408 - 🔻 TÍN HIỆU EMA RSI SHORT: VET/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0115
+EMA RSI 10: 51.23 | EMA RSI 20: 51.80 | EMA RSI 30: 51.37
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:12:16.887566 - 🔻 TÍN HIỆU EMA RSI SHORT: SEI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1203
+EMA RSI 10: 49.82 | EMA RSI 20: 50.68 | EMA RSI 30: 50.53
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:12:32.749346 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0594
+EMA RSI 10: 65.37 | EMA RSI 20: 64.74 | EMA RSI 30: 63.89
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:12:45.018967 - 🔻 TÍN HIỆU EMA RSI SHORT: TIA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.5556
+EMA RSI 10: 52.91 | EMA RSI 20: 54.41 | EMA RSI 30: 54.39
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:12:48.687835 - 🔻 TÍN HIỆU EMA RSI SHORT: ETHFI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.7300
+EMA RSI 10: 50.66 | EMA RSI 20: 52.25 | EMA RSI 30: 52.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:13:08.180020 - 🔻 TÍN HIỆU EMA RSI SHORT: ENS/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 10.2800
+EMA RSI 10: 51.92 | EMA RSI 20: 52.74 | EMA RSI 30: 52.44
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:13:31.992494 - 🔻 TÍN HIỆU EMA RSI SHORT: A/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1698
+EMA RSI 10: 49.91 | EMA RSI 20: 50.91 | EMA RSI 30: 50.94
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:13:36.761299 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1442
+EMA RSI 10: 42.43 | EMA RSI 20: 42.83 | EMA RSI 30: 42.83
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:14:05.060700 - 🔻 TÍN HIỆU EMA RSI SHORT: SFP/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3620
+EMA RSI 10: 56.01 | EMA RSI 20: 56.99 | EMA RSI 30: 57.20
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:14:15.951553 - 🔻 TÍN HIỆU EMA RSI SHORT: RSR/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0026
+EMA RSI 10: 49.56 | EMA RSI 20: 50.42 | EMA RSI 30: 50.09
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:14:36.798166 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 7.4300
+EMA RSI 10: 49.47 | EMA RSI 20: 50.34 | EMA RSI 30: 50.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:15:02.557136 - 🔻 TÍN HIỆU EMA RSI SHORT: LINEA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0063
+EMA RSI 10: 46.62 | EMA RSI 20: 47.50 | EMA RSI 30: 47.34
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:15:09.770584 - 🔻 TÍN HIỆU EMA RSI SHORT: SUSHI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3236
+EMA RSI 10: 52.40 | EMA RSI 20: 53.46 | EMA RSI 30: 53.01
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:15:28.867596 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:15:37.327251 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:15:47.017863 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:18:33.702221 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.3750
+EMA RSI 10: 42.27 | EMA RSI 20: 42.50 | EMA RSI 30: 42.56
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:49:22.193434 - 🔻 TÍN HIỆU EMA RSI SHORT: ADA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3925
+EMA RSI 10: 51.80 | EMA RSI 20: 53.20 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:49:33.251902 - 🔻 TÍN HIỆU EMA RSI SHORT: AVAX/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 13.7500
+EMA RSI 10: 52.50 | EMA RSI 20: 53.60 | EMA RSI 30: 53.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:49:46.683696 - 🔻 TÍN HIỆU EMA RSI SHORT: UNI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 5.3050
+EMA RSI 10: 47.25 | EMA RSI 20: 48.58 | EMA RSI 30: 47.85
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:50:09.278630 - 🔻 TÍN HIỆU EMA RSI SHORT: ARB/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.2075
+EMA RSI 10: 52.38 | EMA RSI 20: 53.16 | EMA RSI 30: 52.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:50:15.272982 - 🔻 TÍN HIỆU EMA RSI SHORT: FIL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 1.4800
+EMA RSI 10: 53.19 | EMA RSI 20: 53.72 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:50:20.012175 - 🔻 TÍN HIỆU EMA RSI SHORT: VET/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0115
+EMA RSI 10: 51.23 | EMA RSI 20: 51.80 | EMA RSI 30: 51.37
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:50:28.624858 - 🔻 TÍN HIỆU EMA RSI SHORT: SEI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1203
+EMA RSI 10: 49.82 | EMA RSI 20: 50.68 | EMA RSI 30: 50.53
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:50:44.270529 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0594
+EMA RSI 10: 65.37 | EMA RSI 20: 64.74 | EMA RSI 30: 63.89
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:50:56.968005 - 🔻 TÍN HIỆU EMA RSI SHORT: TIA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.5556
+EMA RSI 10: 52.91 | EMA RSI 20: 54.41 | EMA RSI 30: 54.39
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:51:00.860243 - 🔻 TÍN HIỆU EMA RSI SHORT: ETHFI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.7300
+EMA RSI 10: 50.66 | EMA RSI 20: 52.25 | EMA RSI 30: 52.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:51:20.437322 - 🔻 TÍN HIỆU EMA RSI SHORT: ENS/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 10.2800
+EMA RSI 10: 51.92 | EMA RSI 20: 52.74 | EMA RSI 30: 52.44
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:51:43.690344 - 🔻 TÍN HIỆU EMA RSI SHORT: A/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1698
+EMA RSI 10: 49.91 | EMA RSI 20: 50.91 | EMA RSI 30: 50.94
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:51:48.745026 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1442
+EMA RSI 10: 42.43 | EMA RSI 20: 42.83 | EMA RSI 30: 42.83
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:52:16.658912 - 🔻 TÍN HIỆU EMA RSI SHORT: SFP/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3620
+EMA RSI 10: 56.01 | EMA RSI 20: 56.99 | EMA RSI 30: 57.20
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:52:28.098118 - 🔻 TÍN HIỆU EMA RSI SHORT: RSR/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0026
+EMA RSI 10: 49.56 | EMA RSI 20: 50.42 | EMA RSI 30: 50.09
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:52:49.026837 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 7.4300
+EMA RSI 10: 49.47 | EMA RSI 20: 50.34 | EMA RSI 30: 50.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:53:14.702140 - 🔻 TÍN HIỆU EMA RSI SHORT: LINEA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0063
+EMA RSI 10: 46.62 | EMA RSI 20: 47.50 | EMA RSI 30: 47.34
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:53:21.939968 - 🔻 TÍN HIỆU EMA RSI SHORT: SUSHI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3236
+EMA RSI 10: 52.40 | EMA RSI 20: 53.46 | EMA RSI 30: 53.01
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:53:41.133803 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:53:49.631619 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:53:59.273725 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 04:56:46.034301 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.3140
+EMA RSI 10: 42.20 | EMA RSI 20: 42.46 | EMA RSI 30: 42.53
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:27:34.851499 - 🔻 TÍN HIỆU EMA RSI SHORT: ADA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3925
+EMA RSI 10: 51.80 | EMA RSI 20: 53.20 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:27:45.699585 - 🔻 TÍN HIỆU EMA RSI SHORT: AVAX/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 13.7500
+EMA RSI 10: 52.50 | EMA RSI 20: 53.60 | EMA RSI 30: 53.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:27:55.383724 - 🔻 TÍN HIỆU EMA RSI SHORT: TON/USDT (4h)
+Thời gian: 2026-01-16 03:00:00
+Cách đây: 0 nến
+Giá: 1.6950
+EMA RSI 10: 45.70 | EMA RSI 20: 46.49 | EMA RSI 30: 46.61
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:28:01.381630 - 🔻 TÍN HIỆU EMA RSI SHORT: UNI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 5.3050
+EMA RSI 10: 47.25 | EMA RSI 20: 48.58 | EMA RSI 30: 47.85
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:28:23.309998 - 🔻 TÍN HIỆU EMA RSI SHORT: ARB/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.2075
+EMA RSI 10: 52.38 | EMA RSI 20: 53.16 | EMA RSI 30: 52.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:28:29.284049 - 🔻 TÍN HIỆU EMA RSI SHORT: FIL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 1.4800
+EMA RSI 10: 53.19 | EMA RSI 20: 53.72 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:28:34.104486 - 🔻 TÍN HIỆU EMA RSI SHORT: VET/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0115
+EMA RSI 10: 51.23 | EMA RSI 20: 51.80 | EMA RSI 30: 51.37
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:28:42.528324 - 🔻 TÍN HIỆU EMA RSI SHORT: SEI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1203
+EMA RSI 10: 49.82 | EMA RSI 20: 50.68 | EMA RSI 30: 50.53
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:28:58.175445 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0594
+EMA RSI 10: 65.37 | EMA RSI 20: 64.74 | EMA RSI 30: 63.89
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:29:10.297224 - 🔻 TÍN HIỆU EMA RSI SHORT: TIA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.5556
+EMA RSI 10: 52.91 | EMA RSI 20: 54.41 | EMA RSI 30: 54.39
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:29:13.900439 - 🔻 TÍN HIỆU EMA RSI SHORT: ETHFI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.7300
+EMA RSI 10: 50.66 | EMA RSI 20: 52.25 | EMA RSI 30: 52.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:29:33.947387 - 🔻 TÍN HIỆU EMA RSI SHORT: ENS/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 10.2800
+EMA RSI 10: 51.92 | EMA RSI 20: 52.74 | EMA RSI 30: 52.44
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:29:56.938760 - 🔻 TÍN HIỆU EMA RSI SHORT: A/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1698
+EMA RSI 10: 49.91 | EMA RSI 20: 50.91 | EMA RSI 30: 50.94
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:30:01.970775 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1442
+EMA RSI 10: 42.43 | EMA RSI 20: 42.83 | EMA RSI 30: 42.83
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:30:30.216045 - 🔻 TÍN HIỆU EMA RSI SHORT: SFP/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3620
+EMA RSI 10: 56.01 | EMA RSI 20: 56.99 | EMA RSI 30: 57.20
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:30:41.288860 - 🔻 TÍN HIỆU EMA RSI SHORT: RSR/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0026
+EMA RSI 10: 49.56 | EMA RSI 20: 50.42 | EMA RSI 30: 50.09
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:31:01.639451 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 7.4300
+EMA RSI 10: 49.47 | EMA RSI 20: 50.34 | EMA RSI 30: 50.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:31:27.660928 - 🔻 TÍN HIỆU EMA RSI SHORT: LINEA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0063
+EMA RSI 10: 46.62 | EMA RSI 20: 47.50 | EMA RSI 30: 47.34
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:31:34.863743 - 🔻 TÍN HIỆU EMA RSI SHORT: SUSHI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3236
+EMA RSI 10: 52.40 | EMA RSI 20: 53.46 | EMA RSI 30: 53.01
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:31:54.026994 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:32:02.445398 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:32:12.492893 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 05:34:58.974011 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.2890
+EMA RSI 10: 42.18 | EMA RSI 20: 42.45 | EMA RSI 30: 42.52
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:05:48.092138 - 🔻 TÍN HIỆU EMA RSI SHORT: ADA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3925
+EMA RSI 10: 51.80 | EMA RSI 20: 53.20 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:05:59.329961 - 🔻 TÍN HIỆU EMA RSI SHORT: AVAX/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 13.7500
+EMA RSI 10: 52.50 | EMA RSI 20: 53.60 | EMA RSI 30: 53.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:06:09.075358 - 🔻 TÍN HIỆU EMA RSI SHORT: TON/USDT (4h)
+Thời gian: 2026-01-16 03:00:00
+Cách đây: 0 nến
+Giá: 1.6910
+EMA RSI 10: 45.59 | EMA RSI 20: 46.44 | EMA RSI 30: 46.57
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:06:15.083147 - 🔻 TÍN HIỆU EMA RSI SHORT: UNI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 5.3050
+EMA RSI 10: 47.25 | EMA RSI 20: 48.58 | EMA RSI 30: 47.85
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:06:36.768664 - 🔻 TÍN HIỆU EMA RSI SHORT: ARB/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.2075
+EMA RSI 10: 52.38 | EMA RSI 20: 53.16 | EMA RSI 30: 52.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:06:42.740872 - 🔻 TÍN HIỆU EMA RSI SHORT: FIL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 1.4800
+EMA RSI 10: 53.19 | EMA RSI 20: 53.72 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:06:47.479493 - 🔻 TÍN HIỆU EMA RSI SHORT: VET/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0115
+EMA RSI 10: 51.23 | EMA RSI 20: 51.80 | EMA RSI 30: 51.37
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:06:56.388079 - 🔻 TÍN HIỆU EMA RSI SHORT: SEI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1203
+EMA RSI 10: 49.82 | EMA RSI 20: 50.68 | EMA RSI 30: 50.53
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:07:13.028576 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0594
+EMA RSI 10: 65.37 | EMA RSI 20: 64.74 | EMA RSI 30: 63.89
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:07:25.045192 - 🔻 TÍN HIỆU EMA RSI SHORT: TIA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.5556
+EMA RSI 10: 52.91 | EMA RSI 20: 54.41 | EMA RSI 30: 54.39
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:07:28.590437 - 🔻 TÍN HIỆU EMA RSI SHORT: ETHFI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.7300
+EMA RSI 10: 50.66 | EMA RSI 20: 52.25 | EMA RSI 30: 52.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:07:47.987417 - 🔻 TÍN HIỆU EMA RSI SHORT: ENS/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 10.2800
+EMA RSI 10: 51.92 | EMA RSI 20: 52.74 | EMA RSI 30: 52.44
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:08:11.147508 - 🔻 TÍN HIỆU EMA RSI SHORT: A/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1698
+EMA RSI 10: 49.91 | EMA RSI 20: 50.91 | EMA RSI 30: 50.94
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:08:15.843613 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1442
+EMA RSI 10: 42.43 | EMA RSI 20: 42.83 | EMA RSI 30: 42.83
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:08:44.050060 - 🔻 TÍN HIỆU EMA RSI SHORT: SFP/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3620
+EMA RSI 10: 56.01 | EMA RSI 20: 56.99 | EMA RSI 30: 57.20
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:08:55.011111 - 🔻 TÍN HIỆU EMA RSI SHORT: RSR/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0026
+EMA RSI 10: 49.56 | EMA RSI 20: 50.42 | EMA RSI 30: 50.09
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:09:15.648398 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 7.4300
+EMA RSI 10: 49.47 | EMA RSI 20: 50.34 | EMA RSI 30: 50.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:09:41.340628 - 🔻 TÍN HIỆU EMA RSI SHORT: LINEA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0063
+EMA RSI 10: 46.62 | EMA RSI 20: 47.50 | EMA RSI 30: 47.34
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:09:48.731296 - 🔻 TÍN HIỆU EMA RSI SHORT: SUSHI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3236
+EMA RSI 10: 52.40 | EMA RSI 20: 53.46 | EMA RSI 30: 53.01
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:10:08.564365 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:10:17.080506 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:10:26.766082 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:13:12.113636 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.2710
+EMA RSI 10: 42.16 | EMA RSI 20: 42.44 | EMA RSI 30: 42.52
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:44:01.858438 - 🔻 TÍN HIỆU EMA RSI SHORT: ADA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3925
+EMA RSI 10: 51.80 | EMA RSI 20: 53.20 | EMA RSI 30: 53.03
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:44:12.671835 - 🔻 TÍN HIỆU EMA RSI SHORT: AVAX/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 13.7500
+EMA RSI 10: 52.50 | EMA RSI 20: 53.60 | EMA RSI 30: 53.21
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:44:22.359495 - 🔻 TÍN HIỆU EMA RSI SHORT: TON/USDT (4h)
+Thời gian: 2026-01-16 03:00:00
+Cách đây: 0 nến
+Giá: 1.6910
+EMA RSI 10: 45.59 | EMA RSI 20: 46.44 | EMA RSI 30: 46.57
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:44:28.343177 - 🔻 TÍN HIỆU EMA RSI SHORT: UNI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 5.3050
+EMA RSI 10: 47.25 | EMA RSI 20: 48.58 | EMA RSI 30: 47.85
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:44:50.693953 - 🔻 TÍN HIỆU EMA RSI SHORT: ARB/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.2075
+EMA RSI 10: 52.38 | EMA RSI 20: 53.16 | EMA RSI 30: 52.70
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:44:56.695750 - 🔻 TÍN HIỆU EMA RSI SHORT: FIL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 1.4800
+EMA RSI 10: 53.19 | EMA RSI 20: 53.72 | EMA RSI 30: 53.26
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:45:01.508736 - 🔻 TÍN HIỆU EMA RSI SHORT: VET/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0115
+EMA RSI 10: 51.23 | EMA RSI 20: 51.80 | EMA RSI 30: 51.37
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:45:09.976034 - 🔻 TÍN HIỆU EMA RSI SHORT: SEI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1203
+EMA RSI 10: 49.82 | EMA RSI 20: 50.68 | EMA RSI 30: 50.53
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:45:26.103274 - 🚀 TÍN HIỆU EMA RSI LONG: CHZ/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0594
+EMA RSI 10: 65.37 | EMA RSI 20: 64.74 | EMA RSI 30: 63.89
+--------------------
+Ichimoku: Close > Span B (OK)
+Volume: > MA 20 (OK)
+Super Trend: Bullish (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:45:38.304873 - 🔻 TÍN HIỆU EMA RSI SHORT: TIA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.5556
+EMA RSI 10: 52.91 | EMA RSI 20: 54.41 | EMA RSI 30: 54.39
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:45:41.940162 - 🔻 TÍN HIỆU EMA RSI SHORT: ETHFI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.7300
+EMA RSI 10: 50.66 | EMA RSI 20: 52.25 | EMA RSI 30: 52.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:46:01.515204 - 🔻 TÍN HIỆU EMA RSI SHORT: ENS/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 10.2800
+EMA RSI 10: 51.92 | EMA RSI 20: 52.74 | EMA RSI 30: 52.44
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:46:24.760531 - 🔻 TÍN HIỆU EMA RSI SHORT: A/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1698
+EMA RSI 10: 49.91 | EMA RSI 20: 50.91 | EMA RSI 30: 50.94
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:46:29.640802 - 🔻 TÍN HIỆU EMA RSI SHORT: XPL/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.1442
+EMA RSI 10: 42.43 | EMA RSI 20: 42.83 | EMA RSI 30: 42.83
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:46:57.989846 - 🔻 TÍN HIỆU EMA RSI SHORT: SFP/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3620
+EMA RSI 10: 56.01 | EMA RSI 20: 56.99 | EMA RSI 30: 57.20
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:47:08.885873 - 🔻 TÍN HIỆU EMA RSI SHORT: RSR/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0026
+EMA RSI 10: 49.56 | EMA RSI 20: 50.42 | EMA RSI 30: 50.09
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:47:30.005237 - 🔻 TÍN HIỆU EMA RSI SHORT: KSM/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 7.4300
+EMA RSI 10: 49.47 | EMA RSI 20: 50.34 | EMA RSI 30: 50.25
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:47:55.516154 - 🔻 TÍN HIỆU EMA RSI SHORT: LINEA/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.0063
+EMA RSI 10: 46.62 | EMA RSI 20: 47.50 | EMA RSI 30: 47.34
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:48:03.021708 - 🔻 TÍN HIỆU EMA RSI SHORT: SUSHI/USDT (4h)
+Thời gian: 2026-01-15 23:00:00
+Cách đây: 1 nến
+Giá: 0.3236
+EMA RSI 10: 52.40 | EMA RSI 20: 53.46 | EMA RSI 30: 53.01
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:48:22.376923 - 🔻 TÍN HIỆU EMA RSI SHORT: USDC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 0.9999
+EMA RSI 10: 52.54 | EMA RSI 20: 53.91 | EMA RSI 30: 54.05
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:48:30.811115 - 🔻 TÍN HIỆU EMA RSI SHORT: BCH/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 597.4000
+EMA RSI 10: 55.04 | EMA RSI 20: 56.12 | EMA RSI 30: 55.98
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:48:40.638530 - 🔻 TÍN HIỆU EMA RSI SHORT: LTC/USDT (1d)
+Thời gian: 2026-01-14 07:00:00
+Cách đây: 1 nến
+Giá: 76.6700
+EMA RSI 10: 46.61 | EMA RSI 20: 47.30 | EMA RSI 30: 46.81
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
+2026-01-16 06:51:27.771280 - 🔻 TÍN HIỆU EMA RSI SHORT: PROM/USDT (1d)
+Thời gian: 2026-01-15 07:00:00
+Cách đây: 0 nến
+Giá: 6.2380
+EMA RSI 10: 42.12 | EMA RSI 20: 42.42 | EMA RSI 30: 42.50
+--------------------
+Volume: > MA 20 (OK)
+--------------------
+🛑 Gợi ý SL/TP: Tự xác định theo cấu trúc.
+--------------------------------------------------
